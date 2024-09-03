@@ -16,7 +16,7 @@ Esse pequeno projeto é referente a uma interface gráfica bem simples, utilizan
  - [Real Python](https://realpython.com/python-pyqt-gui-calculator/)
  - [fman build system](https://build-system.fman.io/qt-designer-download)
 
-Requisito e passo a passo do projeto
+## Requisito e passo a passo do projeto
 
 ![image](https://github.com/user-attachments/assets/4770a5be-aa38-4e07-8dc3-d0aab1518559)
 - Na imagem acima você irá precisar realizar o download do Qt Designer para a criação da(s) janela(s) de interface gráfica, Não se preocupe é muito de "Clica e arrasta" porém 
