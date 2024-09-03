@@ -42,4 +42,4 @@ E um botão para realizar a ação de enviar o email, o qual será necessário c
 - Aqui você vai precisar criar um app, pra gerar uma senha aleatória que será utilizada no projeto para uma espécie de autenticação.
 
 ![image](https://github.com/user-attachments/assets/fc2a32e8-6867-476c-a46d-b17d89d7560c)
-- Os valores das variáveis em questão, você deverá colocar o seu email e a senha que foi gerada ao criar o app lá no "App passwords" no Gmail
+- Os valores das variáveis em "sender" e "password", você deverá colocar o seu email e na variável "password" a senha que foi gerada ao criar o app lá no "App passwords" no Gmail
