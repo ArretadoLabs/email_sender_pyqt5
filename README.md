@@ -31,3 +31,15 @@ E um botão para realizar a ação de enviar o email, o qual será necessário c
 
 ![image](https://github.com/user-attachments/assets/93668125-c31a-4912-b9fb-a5e6980ccfd3)
 - Tela inicial do projeto
+
+![image](https://github.com/user-attachments/assets/f959d267-4a02-4b5e-896c-250c99d1f332)
+- Essa foi basicamente a organização dos arquivos do projeto, vale ressaltarr que o arquivo no formato ".UI" foi gerado a partir do Qt Designer
+
+![image](https://github.com/user-attachments/assets/0ce5d2fc-2f6e-4c1f-9339-176000c6de4f)
+- No meu exemplo, utilizando o GMAIL, procure na janela de "App passwords" 
+
+![image](https://github.com/user-attachments/assets/421fad42-5ddb-43e4-98ca-c1c5425e6df5)
+- Aqui você vai precisar criar um app, pra gerar uma senha aleatória que será utilizada no projeto para uma espécie de autenticação.
+
+![image](https://github.com/user-attachments/assets/fc2a32e8-6867-476c-a46d-b17d89d7560c)
+- Os valores das variáveis em questão, você deverá colocar o seu email e a senha que foi gerada ao criar o app lá no "App passwords" no Gmail
